@@ -5,6 +5,7 @@ const TopBar = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Click the Paintings! 여기 셈플</Text>
+      <Text style={styles.text}>Click the Paintings! 여기 셈플11git </Text>
     </View>
   );
 };
